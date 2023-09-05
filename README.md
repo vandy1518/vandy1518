@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vandy1518
+- 👋 Hi, I’m @vandy1518: founder, coach & consultant. 
 - 👀 I’m interested in building things to make the world a more equitable and accessible place for all people. 
 - 🌱 I’m currently learning how to use GitHub & code.
 - 💞️ I’m looking to collaborate on projects that help people.
